@@ -1,4 +1,4 @@
-FROM linuxserver/docker-sonarr:latest
+FROM linuxserver/sonarr:latest
 MAINTAINER Mark Riedesel <mark@klowner.com>
 
 RUN \
